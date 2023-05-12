@@ -91,3 +91,4 @@ web at:
   http://code.google.com/apis/protocolbuffers/
 
 New instructions
+Lines escrita desde otra copia de trabajo simulando otro desarrollador con svn git
