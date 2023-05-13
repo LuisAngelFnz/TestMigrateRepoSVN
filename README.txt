@@ -92,4 +92,4 @@ web at:
 
 New instructions
 Lines escrita desde otra copia de trabajo simulando otro desarrollador con svn gittttt
-Linea que debe causar conflictos, se actualizo la misma linea que otra copia de trabajo de otro desarrolador
+Linea que debe causar conflictos, se actualizo la misma linea que otra copia de trabajo de otro desarroladorrrrr
